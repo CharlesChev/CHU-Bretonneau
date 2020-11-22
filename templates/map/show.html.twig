@@ -55,7 +55,7 @@
                     <td>{{ strain.microOrganisme }}</td>
                     <td>{{ strain.resistance }}</td>
                     <td>
-                        <a class="btn btn-info" href="{{ path('strain_show', {'id': strain.id}) }}">Afficher</a>
+                        {#<a class="btn btn-info" href="{{ path('strain_index', {'id': strain.id}) }}">Afficher</a>#}
                         {% if is_granted('ROLE_TECHNICIAN') %}
                             <a class="btn btn-warning" href="{{ path('strain_edit', {'id': strain.id}) }}">Modifier</a>
                         {%endif%}
