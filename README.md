@@ -1,6 +1,6 @@
 # Project 3 - Starter Kit - Symfony 4.4.*
 
-* Résumé du projet:
+Résumé du projet:
 
 Le RHC-CPIAS (Réseau des Hygiénistes du Centre et le Centre d'Appui pour la Prévention des Infections
 Associées aux Soins)  souhaite une application web pour faciliter l'inventaire et la diffusion des
