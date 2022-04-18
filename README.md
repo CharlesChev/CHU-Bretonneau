@@ -2,17 +2,19 @@
 
 # Résumé du projet: #
 
-Le RHC-CPIAS (Réseau des Hygiénistes du Centre et le Centre d'Appui pour la Prévention des Infections
+
+>Le RHC-CPIAS (Réseau des Hygiénistes du Centre et le Centre d'Appui pour la Prévention des Infections
 Associées aux Soins)  souhaite une application web pour faciliter l'inventaire et la diffusion des
 BHR. Pour le moment, ce suivi s'effectue à partir d'un fichier national de signalement en ligne
 (fichier e-sin) et d'un fichier propre au RHC-CPIAS. Les données sont donc fragmentées, certains
 enregistrements n'étant réalisés que dans le fichier national et d'autres uniquement sur le fichier
 local, le fichier souche. L'application doit regrouper de ces deux sources en une seule.
 
-Le RHC-CPIAS est un organisme compétent dans la gestion et le suivi des
+>Le RHC-CPIAS est un organisme compétent dans la gestion et le suivi des
 bactéries hautement résistantes aux antibiotiques (BHR). Ses missions sont l'appui, la formation et
 le conseil aux établissements de santé de la région Centre-Val-de-Loire.
 
+---
 
 ![Wild Code School](https://wildcodeschool.fr/wp-content/uploads/2019/01/logo_pink_176x60.png)
 
